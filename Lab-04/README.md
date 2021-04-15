@@ -9,4 +9,4 @@
 5. Admission.
 6. College_Festival.
 
-Insert 4 documents in each eollection & perform **CRUD** operations. 
+Insert 4 documents in each collection & perform **CRUD** operations. 
